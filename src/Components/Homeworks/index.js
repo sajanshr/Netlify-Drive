@@ -52,6 +52,14 @@ function Homeworks() {
        
       </tr>
 
+      <tr>
+          <th scope="row">4</th>
+          <td>Homework 2</td>
+          <td>CSS codepen</td>
+          <td><a href="https://codepen.io/sajanshr-the-looper/pen/WNEKzBp"> Link</a> </td>
+       
+      </tr>
+
       
         
       </tbody>
