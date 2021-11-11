@@ -11,13 +11,18 @@ function Homeworks() {
       <Jumbotron fluid>
         <Container fluid>
           <h1 className="display-3">WELCOME TO BOOTCAMP - Nov 8 EDITION</h1>
-          <p className="lead">My Name is Sachin Rajgire and I am student here </p>
+          <p className="lead">My Name is Sajan Shrestha and I am student here </p>
           <NavBar />
 
           <Table dark>
       <thead>
         <tr>
           <th>#</th>
+
+          
+          
+          
+
           <th>Type</th>
           <th>Description</th>
           <th>Link</th>
@@ -28,14 +33,14 @@ function Homeworks() {
           <th scope="row">1</th>
           <td>Homework1</td>
           <td> Build a Winysco Website</td>
-          <td><a href="https://github.com"> Link</a> </td>
+          <td><a href="https://github.com/sajanshr/Building-Wynsco-HTML"> Link</a> </td>
        
       </tr>
         <tr>
           <th scope="row">2</th>
           <td>Homework 2</td>
           <td>Javascript - Here is my codepen link with solutions</td>
-          <td><a href="https://codepen.io/wynisco/pen/ExWmXzd"> Link</a> </td>
+          <td><a href="https://codepen.io/sajanshr/pen/bGrjLQy"> Link</a> </td>
        
       </tr>
         
