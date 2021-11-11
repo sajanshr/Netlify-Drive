@@ -10,7 +10,7 @@ function Homeworks() {
      <div>
       <Jumbotron fluid>
         <Container fluid>
-          <h1 className="display-3">WELCOME TO BOOTCAMP - MAY 24 EDITION</h1>
+          <h1 className="display-3">WELCOME TO BOOTCAMP - Nov 8 EDITION</h1>
           <p className="lead">My Name is Sachin Rajgire and I am student here </p>
           <NavBar />
 
@@ -27,7 +27,7 @@ function Homeworks() {
         <tr>
           <th scope="row">1</th>
           <td>Homework1</td>
-          <td>Git Practice. Provide link of your repo here </td>
+          <td> Build a Winysco Website</td>
           <td><a href="https://github.com"> Link</a> </td>
        
       </tr>
