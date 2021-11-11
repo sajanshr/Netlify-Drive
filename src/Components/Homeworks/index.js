@@ -39,10 +39,20 @@ function Homeworks() {
         <tr>
           <th scope="row">2</th>
           <td>Homework 2</td>
-          <td>Javascript - Here is my codepen link with solutions</td>
+          <td>CSS with Code Pen</td>
           <td><a href="https://codepen.io/sajanshr/pen/bGrjLQy"> Link</a> </td>
        
       </tr>
+
+      <tr>
+          <th scope="row">3</th>
+          <td>Homework 2</td>
+          <td>Nav Bar with HTML</td>
+          <td><a href="https://github.com/sajanshr/NavBar-"> Link</a> </td>
+       
+      </tr>
+
+      
         
       </tbody>
     </Table>
